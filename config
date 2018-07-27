@@ -1,0 +1,11 @@
+Host github.com
+    HostName github.com
+    IdentityFile C:\\Users\\yi.liu\\.ssh\\id_rsa_github
+    PreferredAuthentications publickey
+    User eraccn
+	
+Host git.labs.nuance.com
+    HostName git.labs.nuance.com
+	IdentityFile C:\\Users\\yi.liu\\.ssh\\id_rsa
+	PreferredAuthentications publickey
+	User yi.liu
